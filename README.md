@@ -6,3 +6,4 @@ some Demos of rplidar
 	b. cmake ..
 	c. make
 	d. rplidar_test dev/ttyUSB0
+![mrpt_sample](./resource/pic_rplidar_mrpt_sample.png)
