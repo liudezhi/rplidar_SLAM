@@ -3,12 +3,15 @@ some Demos of rplidar
 
 
 ### MRPT Demo
-preparation:
+**PREPARATION:**
+
 [install MRPT](http://www.mrpt.org/MRPT_in_GNU/Linux_repositories)
+
+```
 sudo add-apt-repository ppa:joseluisblancoc/mrpt
 sudo apt-get update
 sudo apt-get install libmrpt-dev mrpt-apps 
-
+```
 
 #### 1. rplidar_mrpt_sample
 	a. mkdir build; cd build
